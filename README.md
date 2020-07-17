@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 💼 I work at [SSW](https://ssw.com.au) - Check out (my profile on SSW)[https://www.ssw.com.au/people/chris-clement]
+- 🔭 I’m currently working on [SugarLearning](https://sugarlearning.com)
+- 💬 Ask me about
+  - (Angular)[https://angular.io/]
+  - (NgRx)[https://ngrx.io/]
+- 📫 How to reach me:
+  - Email: chris@ssw.com.au
+- ⚡ Fun fact:
+  - You are now aware that you are breathing! That should keep you on your toes for a while 😊
+
 <!--
 **christoment/christoment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
