@@ -5,8 +5,10 @@
 - 💬 Ask me about
   - [Angular](https://angular.io/)
   - [NgRx](https://ngrx.io/)
+  - [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+  - [NestJS](https://nestjs.com/)
 - 📫 How to reach me:
-  - Email: chris@ssw.com.au
+  - Email: <a href="mailto:chris@ssw.com.au">chris@ssw.com.au</a>
 - ⚡ Fun fact:
   - You are now aware that you are breathing! That should keep you on your toes for a while 😊
 
