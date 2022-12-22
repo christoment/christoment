@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on [SugarLearning](https://sugarlearning.com)
 - 💬 Ask me about
   - [Angular](https://angular.io/)
+  - [React](https://reactjs.org/)
   - [NgRx](https://ngrx.io/)
   - [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
   - [NestJS](https://nestjs.com/)
